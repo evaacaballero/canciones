@@ -6,8 +6,8 @@
             "id": "0",
             "genero": "Alternativa",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/one_direction-what_makes_you_beautiful.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/one_direction-what_makes_you_beautiful.jpg"
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-cry_for_me.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         },
         {
             "titulo": "I can't fucking sing",
@@ -15,8 +15,8 @@
             "id": "1",
             "genero": "Alternativa",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shivers.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shivers.jpg"
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-i_cant_fucking_sing.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         },
         {
             "titulo": "Photograph",
@@ -24,8 +24,8 @@
             "id": "2",
             "genero": "Alternativa",
             "feat": "Anitta",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-photograph.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-photograph.jpg"
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-sao_paulo.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         }
     ]
 }
