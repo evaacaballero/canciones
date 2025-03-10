@@ -1,0 +1,31 @@
+{
+    "canciones": [
+        {
+            "titulo": "Sweater Weather",
+            "artista": "The Neighbourhood",
+            "id": "21",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-sweater_weather.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-sweater_weather.jpg"
+        },
+        {
+            "titulo": "Flawless",
+            "artista": "The Neighbourhood",
+            "id": "18",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-flawless.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-flawless.jpg"
+        },
+        {
+            "titulo": "Two Moons",
+            "artista": "BoyWithUke",
+            "id": "14",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/boywithuke-two_moons.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/boywithuke-two_moons.jpg"
+        }
+    ]
+}

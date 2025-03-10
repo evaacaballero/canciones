@@ -1,0 +1,31 @@
+{
+    "canciones": [
+        {
+            "titulo": "Cry for me",
+            "artista": "The Weeknd",
+            "id": "0",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/one_direction-what_makes_you_beautiful.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/one_direction-what_makes_you_beautiful.jpg"
+        },
+        {
+            "titulo": "I can't fucking sing",
+            "artista": "The Weeknd",
+            "id": "1",
+            "genero": "Alternativa",
+            "feat": "",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-shivers.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-shivers.jpg"
+        },
+        {
+            "titulo": "Photograph",
+            "artista": "The Weeknd",
+            "id": "2",
+            "genero": "Alternativa",
+            "feat": "Anitta",
+            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/ed_sheeran-photograph.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/ed_sheeran-photograph.jpg"
+        }
+    ]
+}
