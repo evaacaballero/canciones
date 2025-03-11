@@ -1,31 +1,31 @@
 {
     "canciones": [
         {
-            "titulo": "Sweater Weather",
-            "artista": "The Neighbourhood",
-            "id": "21",
+            "titulo": "Cry for me",
+            "artista": "The Weeknd",
+            "id": "0",
             "genero": "Alternativa",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-sweater_weather.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-sweater_weather.jpg"
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-cry_for_me.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         },
         {
-            "titulo": "Flawless",
-            "artista": "The Neighbourhood",
-            "id": "18",
+            "titulo": "I can't fucking sing",
+            "artista": "The Weeknd",
+            "id": "1",
             "genero": "Alternativa",
             "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/the_neighbourhood-flawless.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/the_neighbourhood-flawless.jpg"
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-i_cant_fucking_sing.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         },
         {
-            "titulo": "Two Moons",
-            "artista": "BoyWithUke",
-            "id": "14",
+            "titulo": "Photograph",
+            "artista": "The Weeknd",
+            "id": "2",
             "genero": "Alternativa",
-            "feat": "",
-            "urlcancion": "https://github.com/Matsuri978/Canciones/raw/main/canciones/boywithuke-two_moons.mp3",
-            "urlcaratula": "https://raw.githubusercontent.com/Matsuri978/Canciones/main/caratulas/boywithuke-two_moons.jpg"
+            "feat": "Anitta",
+            "urlcancion": "https://github.com/evaacaballero/canciones/raw/main/canciones/the_weeknd-sao_paulo.mp3",
+            "urlcaratula": "https://raw.githubusercontent.com/evaacaballero/canciones/main/caratulas/the_weeknd-hurry_up_tomorrow.jpg"
         }
     ]
 }
